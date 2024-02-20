@@ -63,7 +63,7 @@ function Projects() {
               isBlog={false}
               title="Stock Exchange System"
               description="Implemented a stock exchange and matching system with Java to support over 1000+ users in registering accounts, buying and selling stocks, cancelling orders and checking transactions."
-              ghLink="https://github.com/essieding/stock_exchange_system"
+              ghLink="https://github.com/essieding/Stock_Exchange_System"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
@@ -75,7 +75,7 @@ function Projects() {
               title="Wild Hunt"
               description="Developed a 3D survival game where the player gathers resources to fight against zombies using Unity engine and C#."
               ghLink="https://github.com/essieding/Wild_Hunt_3D"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              demoLink="https://www.youtube.com/watch?v=FRT7kcS0H0A"
             />
           </Col>
 
