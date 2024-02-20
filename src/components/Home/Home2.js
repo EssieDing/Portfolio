@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            My journey in programming has been filled with continuous learning and passion. 
+            My journey in programming has been filled with continuous learning and passion.
               <br />
               <br />I am fluent in programming languages like
               <i>
@@ -36,8 +36,11 @@ function Home2() {
                 </b>
               </i>
               <br />
-              <br />
-              
+            <br />
+            I enjoy designing and developing innovative software solutions from concept to deployment.
+            <br/>
+            <br/>
+            I enjoy collaborating with cross-functional teams to increase application reliability, stability, and performance.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
